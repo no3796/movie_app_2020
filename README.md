@@ -2,6 +2,13 @@
 ## movie_app_2020
 React JS Fundamentals Course
 
+## 9월 25일
+1. map함수로 컴포넌트 여러 개 만들기
+2. 컴포넌트에 key props 추가
+3. 이미지에 alt 속성 추가
+4. import를 사용하요 이미지 추가
+
+
 ## 9월 18일
 1. 컴포넌트가 무엇인지 알하보고, JSX를 학습.
 2. JSX는 단지 HTML과 자바스크립트를 조합한 문법이다.
