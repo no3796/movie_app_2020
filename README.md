@@ -6,6 +6,7 @@ React JS Fundamentals Course
 1. propTypes 작성하기
 3. json 에서 데이터 받아오기
 3. 내림차순 정렬
+4. 수업당시 로딩이후 대사가 나오지 않았던 오류는 movie.js의 movie항수의 변수지정하는 부분에 {}를 넣지 않았기 때문
 
 ## 10월 16일
 1. constructor() 컴포넌트 알아보기
