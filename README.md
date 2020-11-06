@@ -2,6 +2,11 @@
 ## movie_app_2020
 React JS Fundamentals Course
 
+## 10월 30일
+1. propTypes 작성하기
+3. json 에서 데이터 받아오기
+3. 내림차순 정렬
+
 ## 10월 16일
 1. constructor() 컴포넌트 알아보기
 2. componentDidMount() 함수 알아보기
