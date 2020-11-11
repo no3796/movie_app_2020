@@ -1,6 +1,10 @@
 # 이종민 201930425
 ## movie_app_2020
 React JS Fundamentals Course
+## 11월 06일
+1. genres props 작성
+2. class 속성을 className으로 바꾸기
+3. key props 추가
 
 ## 10월 30일
 1. propTypes 작성하기
