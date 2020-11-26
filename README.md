@@ -1,6 +1,23 @@
 # 이종민 201930425
 ## movie_app_2020
 React JS Fundamentals Course
+## 11월 06일
+1. genres props 작성
+2. class 속성을 className으로 바꾸기
+3. key props 추가
+
+## 10월 30일
+1. propTypes 작성하기
+3. json 에서 데이터 받아오기
+3. 내림차순 정렬
+4. 수업당시 로딩이후 대사가 나오지 않았던 오류는 movie.js의 movie항수의 변수지정하는 부분에 {}를 넣지 않았기 때문
+
+## 10월 16일
+1. constructor() 컴포넌트 알아보기
+2. componentDidMount() 함수 알아보기
+3. componentDidUpdate() 함수 알아보기
+4. componentWillUnmount() 함수 알아보기
+5. 로딩현상 구현하기
 
 ## 11월 20일
 1. route 컴포넌트에 데이터 담아보내기
