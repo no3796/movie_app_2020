@@ -2,6 +2,12 @@
 ## movie_app_2020
 React JS Fundamentals Course
 
+## 12월 1일
+1. cdn 기초
+2. jsx식으로 작성하기
+3. 예제
+4. 주요개념
+
 ## 11월 20일
 1. route 컴포넌트에 데이터 담아보내기
 2. 리다이렉트 기능 만들기
